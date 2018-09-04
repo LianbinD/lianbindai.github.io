@@ -8,16 +8,3 @@
 out
 gen
 
-#Generated
-.gradle
-.npm
-.nodejs
-
-# Modules
-*/build
-*/dist
-*/typings
-*/node_modules
-*/npm-debug.log
-*/coverage
-*/.tmp-globalize-webpack
