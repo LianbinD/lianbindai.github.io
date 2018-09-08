@@ -1,0 +1,120 @@
+Fonts:
+
+Tab: New time romans in capital
+Title: New time romans in bold
+Subtitle: New time romans in italics
+Text: new time roman""s in regular
+
+pages
+
+home:
+Keep the brief intro: "LIANBIN DAI holds a D. Phil degree in Oriental Studies from University of Oxford, specializing in the cultural and social history of late imperial China (1368 – 1911). "
+followed by the "consulting service": 
+
+With his knowledge and skills, he also provide consulting service
+
+    Authentication, provenance studies, and appraisal of Chinese literati painting and calligraphy, old Chinese books, manuscripts, rubbings, old maps, and other Chinese bibliographical documents
+    Linguistic and communication analysis
+    Contract historical research
+    Lectures in Chinese history, culture, and language
+    Bibliographic service
+    Chinese-English translation, including translation from literary Chinese into English
+    China-related information, including cultural policies, social customs, and regional cultures, etc.
+    Intercultural communication (specifically between China and Canada), including education, personal travel, business tour, exhibition, and conference
+    Editing and publishing in Chinese and English
+
+the text warpping the photo to be removed, while the photo kept.
+
+Other items should be removed from the homepage.
+
+Statement / bio
+
+the title of biography to remove
+
+photo to remove
+
+Max Planck Institute for the History of Science (MPIWG)
+EALC to be linked outside, not "harvard university"
+"the University of Alberta Museums" to be linked entirely
+
+Statement/academic pursuit
+Title: TEXT, KNOWLEDGE, AND SOCIETY: TOWARDS UNDERSTANDING THE TRADITION OF CHINESE HUMANITIES
+to be changed into New tomes Romans, first letter of each word in capital, in middle
+" article  - Lianbin Dai " to remove
+"renwen kexue" "Bi" "tianli" "banben xue" "shuhua mulu" "jinshi xue" "Dushu fa" in Italics
+In reference matter, book titles in italics, journal titles within quotation marks
+The layout of the remference matter should follow that in the orginal word file.
+
+Skills / As historian
+Italics: "Jiaxing zang" "jiake"
+"Related publications", not in the middle but at the left 
+Related publications: following the style in the original word file
+The second pic to move up, following the appropriate book tile; same in other cases.
+
+Skills/ As Biblio
+Rlated publications: following the style in the orginal word file
+
+Skills/As curator
+Selected works, only the chinese titles to be linked
+Wang Jian 王鑑 (1509 – 1677). "1509" to changed "1598"
+The pin-yin romanization before the chinese title should be in talics
+
+Skills/As Consultant
+The pin-yin romanization before the chinese title should be in talics
+The pin-yin and the chinese characters to be linked as entity
+
+Skills/As translator
+In Selected translations, "From Classical Chinese to English" and "From English to Chinese, including those I approved and co-translated " should be paralleled as subtitles
+Italics: "tuji zhi chu" "Daxue yanyi bu"
+Italics: all english book titles (see the original word file)
+
+Skills/As Instructor
+Teaching Experience
+University names should be bigger than the job titles.
+All words in black
+The course titles, italics or wrapped in quotation marks, you can decide or refer to the orginal word file
+Prepared to teach
+No number tags, standardize with dot
+
+Skills/ As poet
+English statment in New Times Romans
+Chinese: in Songti
+Titles in bold
+Text in regular songti
+引蒙辭 (2016) and 乙未元日 (2015), all main body should be arranged continuously, without being paragraphed at all.
+
+Projects
+"Learning to Be Learned: Neo-Confucian Knowledge Culture in Late Imperial China" to be wrapped together for the link
+"華夏論述：一個複雜共同體的變化" to be linked
+Book titles to be in italics, including "Huaxia lunshu: yige fuza gongtongti de bianhua”
+
+Publications
+Pls just use the orginal word file, keeping its original style
+"Presentations and Invited Lectures": all marks to remove 
+
+On Media
+No frame needed, keep plain and simple
+One more to be added
+Style: refer to the orignal word file
+
+Awards
+No numbering items
+No frame, pls refer to the orginal word file
+
+Service
+Just keep "Professional service"
+Take away "Consulting service"
+
+Testimonials
+Texts on the way
+
+Contact Us
+"Tel" section to remove
+
+Links
+Pls hide all url links.
+
+Contact email:
+lianbind@gmail.com
+
+"Lianbin Dai's Workspace" to remove
