@@ -105,12 +105,11 @@ award */
 /* instrutor */
 .instrutor-article-meta{
 	font-size: 16px;
-	font-weight: 700;
 	font-family: 'Times New Roman'; 
 }
 
 .instrutor-article-content{
-	font-size: 22px;
+	font-size: 18px;
 	font-weight: 700;
 	font-family: 'Times New Roman'; 
 }
@@ -118,6 +117,13 @@ award */
 	line-height: 28px;
 }
 /* instrutor */
+/* ming */
+.ming-meta{
+	text-align: center;
+	font-family: 'Times New Roman';
+	font-size: 20px;
+}
+/* ming */
 /* Presentations and Invited Lectures */
 .Presentations-ul{
 	line-height: 40px;
@@ -125,10 +131,13 @@ award */
 	list-style: none;
 	margin-left: -34px;
 }
+.Presentations-ul li{
+	text-indent: 2em;
+}
 /* Presentations and Invited Lectures */
 /* publications */
 .ConferencePapers-p{
-	text-indent: 0em;
+	text-indent: 2em;
 	margin-top: 6px;
 }
 /* publications */

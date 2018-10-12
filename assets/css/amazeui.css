@@ -4003,9 +4003,10 @@ fieldset[disabled] .am-checkbox-inline {
 }
 /* Sub-object `.@{ns}article-meta` */
 .am-article-meta {
-  font-size: 1.2rem;
+  font-size: 20px;
   line-height: 1.5;
   color: #999999;
+  font-family: 'Times New Roman';
 }
 /* Sub-object `.@{ns}article-lead` */
 .am-article-lead {
